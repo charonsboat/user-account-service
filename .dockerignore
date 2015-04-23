@@ -1,0 +1,7 @@
+# Directories to Ignore
+/.vagrant
+/.git
+
+# Files to Ignore
+Vagrantfile
+vagrant-provisioner.sh
